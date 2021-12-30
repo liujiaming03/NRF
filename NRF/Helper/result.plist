@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>md5</key>
+		<string>398268968d4d78831b6fd2d031f50251</string>
+		<key>mpwd</key>
+		<string>579883</string>
+		<key>pid</key>
+		<string>170305000120</string>
+		<key>ssid</key>
+		<string>zl00mn</string>
+		<key>upwd</key>
+		<string>309995</string>
+	</dict>
+	<dict>
+		<key>md5</key>
+		<string>398268968d4d78831b6fd2d031f50251</string>
+		<key>mpwd</key>
+		<string>127760</string>
+		<key>pid</key>
+		<string>170305000120</string>
+		<key>ssid</key>
+		<string>zl00m4</string>
+		<key>upwd</key>
+		<string>968032</string>
+	</dict>
+	<dict>
+		<key>md5</key>
+		<string>398268968d4d78831b6fd2d031f50251</string>
+		<key>mpwd</key>
+		<string>279271</string>
+		<key>pid</key>
+		<string>170305000120</string>
+		<key>ssid</key>
+		<string>zl00lP</string>
+		<key>upwd</key>
+		<string>816248</string>
+	</dict>
+</array>
+</plist>
