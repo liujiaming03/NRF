@@ -1,0 +1,80 @@
+PODS:
+  - Alamofire (4.7.2)
+  - BuglyHotfix (2.1.0):
+    - BuglyHotfix/Core (= 2.1.0)
+  - BuglyHotfix/Core (2.1.0)
+  - CryptoSwift (0.9.0)
+  - iOSDFULibrary (4.1.2):
+    - Zip (~> 1.0)
+  - MJRefresh (3.1.15.3)
+  - Moya/Core (11.0.2):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (11.0.2):
+    - Moya/Core
+    - RxSwift (~> 4.0)
+  - Realm (10.20.1):
+    - Realm/Headers (= 10.20.1)
+  - Realm/Headers (10.20.1)
+  - RealmSwift (10.20.1):
+    - Realm (= 10.20.1)
+  - Result (3.2.4)
+  - RxCocoa (4.1.2):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.1.2)
+  - SCLAlertView (0.8)
+  - SVProgressHUD (2.2.5)
+  - SwiftyJSON (4.0.0)
+  - Zip (1.1.0)
+
+DEPENDENCIES:
+  - BuglyHotfix
+  - CryptoSwift
+  - iOSDFULibrary
+  - MJRefresh
+  - Moya/RxSwift
+  - RealmSwift
+  - RxCocoa
+  - RxSwift
+  - SCLAlertView (~> 0.8.0)
+  - SVProgressHUD
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BuglyHotfix
+    - CryptoSwift
+    - iOSDFULibrary
+    - MJRefresh
+    - Moya
+    - Realm
+    - RealmSwift
+    - Result
+    - RxCocoa
+    - RxSwift
+    - SCLAlertView
+    - SVProgressHUD
+    - SwiftyJSON
+    - Zip
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  BuglyHotfix: 99a969c77da1baae823a7537acb16e4f1985a5f5
+  CryptoSwift: bca8c5b653dcc2d9734409242a070ff53bafac86
+  iOSDFULibrary: 5a3c53b9c8e7a1303ec962c8e7bb4f30b1fd47b1
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  Moya: a725035953bc1c0eb1be505ab903984501d82440
+  Realm: fac5ecd031fcb81171627b74944c885662d4b266
+  RealmSwift: 9b02d25acb46a14756bde9893abb99e2e3675923
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxCocoa: d88ba0f1f6abf040011a9eb4b539324fc426843a
+  RxSwift: e49536837d9901277638493ea537394d4b55f570
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  Zip: 8877eede3dda76bcac281225c20e71c25270774c
+
+PODFILE CHECKSUM: e896a3a9b58e7d321924bf53b3821d7314b96a52
+
+COCOAPODS: 1.11.2
