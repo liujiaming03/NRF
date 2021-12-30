@@ -1,0 +1,6 @@
+framework module Pods_NRF {
+  umbrella header "Pods-NRF-umbrella.h"
+
+  export *
+  module * { export * }
+}
